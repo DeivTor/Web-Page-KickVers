@@ -1,0 +1,60 @@
+*{
+    font-family: 'Roboto', sans-serif;;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.img-logo{
+    margin: 0px 8px;
+}
+
+.dark{
+    color: rgb(245, 245, 245);
+}
+
+.dark-grey{
+    color: rgb(136, 136, 136);
+}
+
+.resaltar{
+    color: #dc3545;
+    font-size: 60px;
+}
+
+.resaltar-2{
+    color: #dc3545;
+    font-size: 30px;
+}
+
+.resaltar-3{
+    color: #dc3545;
+}
+
+.card{
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.05);
+
+}
+
+#descripcion-juego{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#img-caratula{
+    border-radius: 10px;
+}
+
+#Requerimientos{
+    font-weight: 300;
+    font-size: 30px;
+}
+
+#txtComment{
+    resize: none;
+}
